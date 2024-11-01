@@ -1,0 +1,7 @@
+documents/binarized_images/
+documents/word_images/
+documents/training_dataset/
+documents/results/
+scripts/__pycache__/
+.idea/
+.venv/
